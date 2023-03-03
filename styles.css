@@ -1,0 +1,58 @@
+/* The code from lines 2-4 puts the title of the website in the center */
+title {
+    text-align: center;
+    color: white;
+}
+
+/* The code from lines 6-10 adds the black background-color and white text color for each section heading. If you want to change the color of the section headers, change this code!*/
+div {
+    color: black;
+    text-align: center;
+    background-color: white;
+
+}
+
+p {
+    text-align: center;
+    font-size: 30px;
+    font-family: "Trebuchet MS", Times, sans-serif;
+    font-style: oblique;
+    color: white;
+
+
+}
+
+
+
+img {
+    width: 391px;
+    border: solid black;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+h1 {
+    font-family: Garamond, serif;
+    text-align: center;
+    font-size: 50px;
+}
+
+body {
+    background: grey;
+
+}
+
+a {
+    font-size: 50px;
+    font-family: "Trebuchet MS", Times, sans-serif;
+    font-style: oblique;
+    color: white;
+    text-align: center;
+    display: block;
+    text-decoration: underline;
+}
+.title{
+    color: white;
+}
